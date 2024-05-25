@@ -17,7 +17,7 @@
 <p align="center"> 
   <samp>
     <br>
-    「 I am a junior web developer from <b>Indonesia</b> 」
+    「 I am a Junior Web Developer from <b>Indonesia</b> 」
     <br>
     <br>
   </samp>
@@ -38,7 +38,7 @@
 <p>
  <img align="right" width="350" src="programmer.gif" alt="Coding gif" />
   
- ✌️ &emsp; Enjoy to do programming and sharing knowledge <br/><br/>
+  ✌️ &emsp; Enjoy to do programming and sharing knowledge <br/><br/>
  ❤️ &emsp; Love to writing code and learning new features<br/><br/>
  📧 &emsp; Reach me anytime: septianadip7998@gmail.com<br/><br/>
  💬 &emsp; Ask me about anything [here](https://github.com/septianadip17/septianadip17/issues)
