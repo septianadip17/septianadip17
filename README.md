@@ -56,8 +56,8 @@
 
 ## Top Open Source -
 
-[![kbc-internship](https://github-readme-stats.vercel.app/api/pin/?username=septianadip17&repo=itasks&border_color=7F3FBF&bg_color=0D1117&title_color=C9D1D9&text_color=8B949E&icon_color=7F3FBF)](https://github.com/septianadip17/kbc-internship)
-[![tbn-hackaton](https://github-readme-stats.vercel.app/api/pin/?username=septianadip17&repo=urfolio&border_color=7F3FBF&bg_color=0D1117&title_color=C9D1D9&text_color=8B949E&icon_color=7F3FBF)](https://github.com/septianadip17/hackaton-2-maxyacademy)
+[![kbc-internship](https://github-readme-stats.vercel.app/api/pin/?username=septianadip17&repo=kbc-internship&border_color=7F3FBF&bg_color=0D1117&title_color=C9D1D9&text_color=8B949E&icon_color=7F3FBF)](https://github.com/septianadip17/kbc-internship)
+[![tbn-hackaton](https://github-readme-stats.vercel.app/api/pin/?username=septianadip17&repo=hackaton-2-maxyacademy&border_color=7F3FBF&bg_color=0D1117&title_color=C9D1D9&text_color=8B949E&icon_color=7F3FBF)](https://github.com/septianadip17/hackaton-2-maxyacademy)
 
 <p align="left">
   <a href="https://github.com/septianadip17?tab=repositories" target="_blank"><img alt="All Repositories" title="All Repositories" src="https://img.shields.io/badge/-All%20Repos-2962FF?style=for-the-badge&logo=koding&logoColor=white"/></a>
