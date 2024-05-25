@@ -36,7 +36,7 @@
 # About me
 
 <p>
- <img align="right" width="350" src="programmer.gif" alt="Coding gif" />
+ <img align="right" width="350" src="coding.gif" alt="Coding gif" />
   
   ✌️ &emsp; Enjoy to do programming and sharing knowledge <br/><br/>
  ❤️ &emsp; Love to writing code and learning new features<br/><br/>
@@ -91,7 +91,7 @@
 </p>
 
 <a> 
-    <a href="https://github.com/septianadip17"><img alt="Septian's Github Stats" src="https://denvercoder1-github-readme-stats.vercel.app/api?username=septianadip17&show_icons=true&count_private=true&theme=react&border_color=7F3FBF&bg_color=0D1117&title_color=F85D7F&icon_color=F8D866" height="192px" width="49.5%"/></a>
+  <a href="https://github.com/septianadip17"><img alt="Septian's Github Stats" src="https://denvercoder1-github-readme-stats.vercel.app/api?username=septianadip17&show_icons=true&count_private=true&theme=react&border_color=7F3FBF&bg_color=0D1117&title_color=F85D7F&icon_color=F8D866" height="192px" width="49.5%"/></a>
   <a href="https://github.com/septianadip17"><img alt="Septian's Top Languages" src="https://denvercoder1-github-readme-stats.vercel.app/api/top-langs/?username=septianadip17&langs_count=8&layout=compact&theme=react&border_color=7F3FBF&bg_color=0D1117&title_color=F85D7F&icon_color=F8D866" height="192px" width="49.5%"/></a>
   <br/>
 </a>
