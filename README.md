@@ -28,11 +28,11 @@
 # About me
 
 <p>
- <img align="right" width="350" src="/img/programmer.gif" alt="Coding gif" />
+ <img align="right" width="350" src="programmer.gif" alt="Coding gif" />
   
  ✌️ &emsp; Enjoy to do programming and sharing knowledge <br/><br/>
  ❤️ &emsp; Love to writing code and learning new features<br/><br/>
- 📧 &emsp; Reach me anytime: septianadip17.dev@gmail.com<br/><br/>
+ 📧 &emsp; Reach me anytime: septianadip7998@gmail.com<br/><br/>
  💬 &emsp; Ask me about anything [here](https://github.com/septianadip17/septianadip17/issues)
 </p>
 
@@ -56,10 +56,8 @@
 
 ## Top Open Source -
 
-[![iTasks](https://github-readme-stats.vercel.app/api/pin/?username=septianadip17&repo=itasks&border_color=7F3FBF&bg_color=0D1117&title_color=C9D1D9&text_color=8B949E&icon_color=7F3FBF)](https://github.com/septianadip17/itasks)
-[![urFolio](https://github-readme-stats.vercel.app/api/pin/?username=septianadip17&repo=urfolio&border_color=7F3FBF&bg_color=0D1117&title_color=C9D1D9&text_color=8B949E&icon_color=7F3FBF)](https://github.com/septianadip17/urfolio)
-[![Web Projects](https://github-readme-stats.vercel.app/api/pin/?username=septianadip17&repo=web-projects&border_color=7F3FBF&bg_color=0D1117&title_color=C9D1D9&text_color=8B949E&icon_color=7F3FBF)](https://github.com/septianadip17/web-projects)
-[![Al Siam Readme](https://github-readme-stats.vercel.app/api/pin/?username=septianadip17&repo=septianadip17&border_color=7F3FBF&bg_color=0D1117&title_color=C9D1D9&text_color=8B949E&icon_color=7F3FBF)](https://github.com/septianadip17/septianadip17)
+[![kbc-internship](https://github-readme-stats.vercel.app/api/pin/?username=septianadip17&repo=itasks&border_color=7F3FBF&bg_color=0D1117&title_color=C9D1D9&text_color=8B949E&icon_color=7F3FBF)](https://github.com/septianadip17/kbc-internship)
+[![tbn-hackaton](https://github-readme-stats.vercel.app/api/pin/?username=septianadip17&repo=urfolio&border_color=7F3FBF&bg_color=0D1117&title_color=C9D1D9&text_color=8B949E&icon_color=7F3FBF)](https://github.com/septianadip17/hackaton-2-maxyacademy)
 
 <p align="left">
   <a href="https://github.com/septianadip17?tab=repositories" target="_blank"><img alt="All Repositories" title="All Repositories" src="https://img.shields.io/badge/-All%20Repos-2962FF?style=for-the-badge&logo=koding&logoColor=white"/></a>
@@ -87,7 +85,7 @@
   <br/>
 </a>
 
-![Septian's Graph](https://github-readme-activity-graph.vercel.app/graph?username=septianadip17&custom_title=Al%20Siam's%20GitHub%20Activity%20Graph&bg_color=0D1117&color=7F3FBF&line=7F3FBF&point=7F3FBF&area_color=FFFFFF&title_color=FFFFFF&area=true)
+![Septian's Graph](https://github-readme-activity-graph.vercel.app/graph?username=septianadip17&custom_title=Septian%20GitHub%20Activity%20Graph&bg_color=0D1117&color=7F3FBF&line=7F3FBF&point=7F3FBF&area_color=FFFFFF&title_color=FFFFFF&area=true)
 
 
 <!--
