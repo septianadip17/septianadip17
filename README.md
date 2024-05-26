@@ -2,7 +2,7 @@
   <img align="right" src="https://komarev.com/ghpvc/?username=septianadip17&label=Visitors&color=0e75b6&style=flat" alt="Profile visitor" />
 </a>
 
-[![wakatime](https://wakatime.com/badge/user/eebb3dd8-d9b2-40de-9b88-6fd6cac99dbc.svg)](https://wakatime.com/@septianadip17)
+[![wakatime](https://wakatime.com/badge/user/30b44fea-ae3f-4ef9-bbab-d675eeb600ca.svg)](https://wakatime.com/@30b44fea-ae3f-4ef9-bbab-d675eeb600ca)
 
 
 
