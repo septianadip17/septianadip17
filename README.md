@@ -35,8 +35,8 @@
 <p>
  <img align="right" width="350" src="coding.gif" alt="Coding gif" />
   
-  ✌️ &emsp; Passionate about programming and knowledge sharing<br/><br/>
- ❤️ &emsp; Enthusiastic about writing code and exploring new technologies<br/><br/>
+ ✊🏿 &emsp; Passionate about programming and knowledge sharing<br/><br/>
+ 💓 &emsp; Enthusiastic about writing code and exploring new technologies<br/><br/>
  🎨 &emsp; Excited to create diverse and dynamic web UIs<br/><br/>
  📧 &emsp; Reach out to me anytime: septianadip7998@gmail.com<br/><br/>
  💬 &emsp; Feel free to ask me anything [here](https://github.com/septianadip17/septianadip17/issues)
