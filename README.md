@@ -65,9 +65,12 @@
 
 ## Top Open Source Projects
 
-[![pos-laundry](https://github-readme-stats.vercel.app/api/pin/?username=septianadip17&repo=pos-laundry&border_color=7F3FBF&bg_color=FFFFFF&title_color=1A73E8&text_color=333333&icon_color=7F3FBF)](https://github.com/septianadip17/pos-laundry)
-[![kbc-internship](https://github-readme-stats.vercel.app/api/pin/?username=septianadip17&repo=kbc-internship&border_color=7F3FBF&bg_color=FFFFFF&title_color=1A73E8&text_color=333333&icon_color=7F3FBF)](https://github.com/septianadip17/kbc-internship)
-[![tbn-hackaton](https://github-readme-stats.vercel.app/api/pin/?username=septianadip17&repo=hackaton-2-maxyacademy&border_color=7F3FBF&bg_color=FFFFFF&title_color=1A73E8&text_color=333333&icon_color=7F3FBF)](https://github.com/septianadip17/hackaton-2-maxyacademy)
+[![pos-laundry](https://github-readme-stats.vercel.app/api/pin/?username=septianadip17&repo=pos-laundry&border_color=7F3FBF&theme=light)](https://github.com/septianadip17/pos-laundry)
+
+[![kbc-internship](https://github-readme-stats.vercel.app/api/pin/?username=septianadip17&repo=kbc-internship&border_color=7F3FBF&theme=light)](https://github.com/septianadip17/kbc-internship)
+
+[![tbn-hackaton](https://github-readme-stats.vercel.app/api/pin/?username=septianadip17&repo=hackaton-2-maxyacademy&border_color=7F3FBF&theme=light)](https://github.com/septianadip17/hackaton-2-maxyacademy)
+
 
 
 <p align="left">
