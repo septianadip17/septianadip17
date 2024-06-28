@@ -104,7 +104,6 @@
 
 ![Septian's Graph](https://github-readme-activity-graph.vercel.app/graph?username=septianadip17&custom_title=Septian%20GitHub%20Activity%20Graph&bg_color=0D1117&color=7F3FBF&line=7F3FBF&point=7F3FBF&area_color=FFFFFF&title_color=FFFFFF&area=true)
 
-
 <!--
 **septianadip17/septianadip17** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
