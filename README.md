@@ -129,4 +129,5 @@ still learning on reactdev
 
 latian musik ga bisa commit yg laen
 semangat
+kemis ngojek
 -->
