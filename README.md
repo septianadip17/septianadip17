@@ -130,4 +130,6 @@ still learning on reactdev
 latian musik ga bisa commit yg laen
 semangat
 kemis ngojek
+
+working at jcc until saturday 14th sept
 -->
