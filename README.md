@@ -140,4 +140,6 @@ again
 ngojek wkwkw
 
 ngampus
+
+demam
 -->
