@@ -142,4 +142,6 @@ ngojek wkwkw
 ngampus
 
 demam
+
+belajar api
 -->
