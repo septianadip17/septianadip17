@@ -144,4 +144,6 @@ ngampus
 demam
 
 belajar api
+
+masih
 -->
