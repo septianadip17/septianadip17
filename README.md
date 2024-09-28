@@ -148,4 +148,6 @@ belajar api
 masih
 
 ngaslab
+
+kondangan
 -->
