@@ -150,4 +150,6 @@ masih
 ngaslab
 
 kondangan
+
+gas ngoding
 -->
