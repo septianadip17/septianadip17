@@ -160,4 +160,6 @@ mabol
 wow atapku bolong
 
 gladiresik
+
+wisuda
 -->
