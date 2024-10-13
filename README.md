@@ -166,4 +166,6 @@ wisuda
 mabol
 
 bakarbakar
+
+ngojek
 -->
