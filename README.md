@@ -169,5 +169,5 @@ bakarbakar
 
 ngojek
 
-ke madura seminggu. hari pertama.
+ke madura seminggu. hari pertama. hari kedua.
 -->
