@@ -169,5 +169,5 @@ bakarbakar
 
 ngojek
 
-ke madura seminggu. hari pertama. hari kedua. hari ketiga. hari ke-empat hehe. kelimaaa. ke6 wkwk. 7 hehe
+ke madura seminggu. hari pertama. hari kedua. hari ketiga. hari ke-empat hehe. kelimaaa. ke6 wkwk. 7 hehe. tes
 -->
