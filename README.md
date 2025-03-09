@@ -66,6 +66,7 @@
 <br/>
 
 ## Top Open Source Projects
+[![collab-with-zakki](https://github-readme-stats.vercel.app/api/pin/?username=septianadip17&repo=collab-with-zakki&theme=react&border_color=7F3FBF&bg_color=0D1117&title_color=F85D7F&icon_color=F8D866)](https://github.com/septianadip17/collab-with-zakki)
 
 [![pos-laundry](https://github-readme-stats.vercel.app/api/pin/?username=septianadip17&repo=pos-laundry&theme=react&border_color=7F3FBF&bg_color=0D1117&title_color=F85D7F&icon_color=F8D866)](https://github.com/septianadip17/pos-laundry)
 
