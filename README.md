@@ -179,4 +179,6 @@ ke madura seminggu. hari pertama. hari kedua. hari ketiga. hari ke-empat hehe. k
 yahh hiks
 
 
+sakit
+
 --> 
