@@ -127,5 +127,5 @@ kapan ngoding lagi
 
 masi kerja
 
-lagi sibuk
+lagi sibuk dan masih
 --> 
