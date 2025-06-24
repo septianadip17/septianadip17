@@ -123,11 +123,7 @@ Here are some ideas to get you started:
 
 
 
-kapan ngoding lagi
+kapan ya ngoding lagi
 
 masi kerja
-
-lagi sibuk dan masih
-
-keren
 --> 
