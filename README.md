@@ -123,7 +123,5 @@ Here are some ideas to get you started:
 
 
 
-kapan ya ngoding lagi
-
-masi kerja
+huaaaa
 --> 
