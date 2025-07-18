@@ -121,6 +121,5 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 
-zzz
-lagi kerja
+hahahahah
 --> 
