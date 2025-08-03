@@ -121,12 +121,5 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 
-hahahahah
-hahahah ngulang lagi
-hahaah
-haha
-mulai lagi yuk
-huh
-asdashda
-wu
+ngulang lagi ya
 --> 
