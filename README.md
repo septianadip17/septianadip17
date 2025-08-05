@@ -123,4 +123,5 @@ Here are some ideas to get you started:
 
 ngulang lagi ya
 mau gimana
+semangat
 --> 
