@@ -125,4 +125,5 @@ ngulang lagi ya
 mau gimana
 semangat
 hhh
+mulai lagi
 --> 
