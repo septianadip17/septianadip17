@@ -150,13 +150,6 @@
   </a>
 </p>
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/septianadip17/septianadip17/output/pacman-contribution-graph-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/septianadip17/septianadip17/output/pacman-contribution-graph.svg">
-  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/septianadip17/septianadip17/output/pacman-contribution-graph.svg">
-</picture>
-
-_generated with [abozanona/pacman-contribution-graph](https://abozanona.github.io/pacman-contribution-graph/)_
 
 
 <!-- Main GitHub Stats and Top Languages -->
@@ -169,6 +162,12 @@ _generated with [abozanona/pacman-contribution-graph](https://abozanona.github.i
 
 <!-- GitHub Activity Graph -->
 ![Septian's Graph](https://github-readme-activity-graph.vercel.app/graph?username=septianadip17&custom_title=Septian%20GitHub%20Activity%20Graph&bg_color=0D1117&color=7F3FBF&line=7F3FBF&point=7F3FBF&area_color=FFFFFF&title_color=FFFFFF&area=true)
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/septianadip17/septianadip17/output/pacman-contribution-graph-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/septianadip17/septianadip17/output/pacman-contribution-graph.svg">
+  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/septianadip17/septianadip17/output/pacman-contribution-graph.svg">
+</picture>
 
 <!-- ======================= -->
 <!-- End of README -->
