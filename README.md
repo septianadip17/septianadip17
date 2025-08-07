@@ -43,7 +43,6 @@
 <!-- ======================= -->
 <!-- About Me Section -->
 <!-- ======================= -->
-
 # About Me
 
 <p>
@@ -99,23 +98,23 @@
 <!-- Featured Open Source Projects -->
 <!-- ======================= -->
 
-## Top Open Source Projects
+## My Top Projects
 
-<div align="center" style="display: flex; flex-wrap: wrap; justify-content: center; gap: 10px;">
+<div align="center" style="display: flex; flex-wrap: wrap; justify-content: center; gap: 12px;">
 
   <!-- Project Card 1 -->
   <a href="https://github.com/septianadip17/pos-laundry">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=septianadip17&repo=pos-laundry&theme=react&border_color=7F3FBF&bg_color=0D1117&title_color=F85D7F&icon_color=F8D866" />
+    <img width="420" height="150" src="https://github-readme-stats.vercel.app/api/pin/?username=septianadip17&repo=pos-laundry&theme=react&border_color=7F3FBF&bg_color=0D1117&title_color=F85D7F&icon_color=F8D866" />
   </a>
 
   <!-- Project Card 2 -->
   <a href="https://github.com/septianadip17/kbc-internship">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=septianadip17&repo=kbc-internship&theme=react&border_color=7F3FBF&bg_color=0D1117&title_color=F85D7F&icon_color=F8D866" />
+    <img width="420" height="150" src="https://github-readme-stats.vercel.app/api/pin/?username=septianadip17&repo=kbc-internship&theme=react&border_color=7F3FBF&bg_color=0D1117&title_color=F85D7F&icon_color=F8D866" />
   </a>
 
   <!-- Project Card 3 -->
   <a href="https://github.com/septianadip17/hackaton-2-maxyacademy">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=septianadip17&repo=hackaton-2-maxyacademy&theme=react&border_color=7F3FBF&bg_color=0D1117&title_color=F85D7F&icon_color=F8D866" />
+    <img width="420" height="150" src="https://github-readme-stats.vercel.app/api/pin/?username=septianadip17&repo=hackaton-2-maxyacademy&theme=react&border_color=7F3FBF&bg_color=0D1117&title_color=F85D7F&icon_color=F8D866" />
   </a>
 
 </div>
