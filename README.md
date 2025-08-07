@@ -85,6 +85,10 @@
 <hr/>
 <br/>
 
+<img src="https://raw.githubusercontent.com/septianadip17/septianadip17/output/snake.svg" alt="Snake animation" />
+
+###
+
 <p align="center">
   <a href="https://github.com/septianadip17">
     <img src="https://github-readme-streak-stats.herokuapp.com/?user=septianadip17&theme=radical&border=7F3FBF&background=0D1117" alt="Septian's GitHub streak"/>
