@@ -33,7 +33,7 @@
 # About Me
 
 <p>
- <img align="right" width="350" src="coding.gif" alt="Coding gif" />
+ <img align="right" width="350" src="/img/coding.gif" alt="Coding gif" />
   
  ✊🏿 &emsp; Passionate about programming and knowledge sharing<br/><br/>
  💓 &emsp; Enthusiastic about writing code and exploring new technologies<br/><br/>
