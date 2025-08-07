@@ -163,6 +163,8 @@
 <!-- GitHub Activity Graph -->
 ![Septian's Graph](https://github-readme-activity-graph.vercel.app/graph?username=septianadip17&custom_title=Septian%20GitHub%20Activity%20Graph&bg_color=0D1117&color=7F3FBF&line=7F3FBF&point=7F3FBF&area_color=FFFFFF&title_color=FFFFFF&area=true)
 
+![snake gif](https://github.com/septianadip17/septianadip17/blob/output/github-snake-dark.svg)
+
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/septianadip17/septianadip17/output/pacman-contribution-graph-dark.svg">
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/septianadip17/septianadip17/output/pacman-contribution-graph.svg">
