@@ -161,9 +161,9 @@
 </p>
 
 <!-- GitHub Activity Graph -->
-![Septian's Graph](https://github-readme-activity-graph.vercel.app/graph?username=septianadip17&custom_title=Septian%20GitHub%20Activity%20Graph&bg_color=0D1117&color=7F3FBF&line=7F3FBF&point=7F3FBF&area_color=FFFFFF&title_color=FFFFFF&area=true)
-
 ![snake gif](https://github.com/septianadip17/septianadip17/blob/output/github-snake-dark.svg)
+
+![Septian's Graph](https://github-readme-activity-graph.vercel.app/graph?username=septianadip17&custom_title=Septian%20GitHub%20Activity%20Graph&bg_color=0D1117&color=7F3FBF&line=7F3FBF&point=7F3FBF&area_color=FFFFFF&title_color=FFFFFF&area=true)
 
 <!-- ======================= -->
 <!-- End of README -->
