@@ -173,16 +173,6 @@
 <!-- ======================= -->
 <!-- End of README huh hahaha -->
 <!-- 
-for commit
-oke
-sakit
-masih
-huhu
-dah di rumah
-wfh haha
-huhu
-yes
-sehat
-semangat
+mari kita mulai langkah baru
  -->
 <!-- ======================= -->
