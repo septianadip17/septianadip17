@@ -174,5 +174,6 @@
 <!-- 
 mari kita mulai langkah baru
 ngantuk
+lesgo
  -->
 <!-- ======================= -->
