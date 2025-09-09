@@ -176,5 +176,6 @@ mari kita mulai langkah baru
 ngantuk
 lesgo
 huft
+semangat interview frontend
  -->
 <!-- ======================= -->
