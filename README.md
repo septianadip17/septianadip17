@@ -173,13 +173,6 @@
 <!-- End of README huh hahaha -->
 <!-- 
 mari kita mulai langkah baru
-ngantuk
-lesgo
-huft
-semangat interview frontend
-semangat
-oy
-muzikan
-yoo kerja
+
  -->
 <!-- ======================= -->
