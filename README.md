@@ -175,5 +175,6 @@
 mari kita mulai langkah baru
 masih semangat
 huhuhuhuh
+ga keterima euy, putus juga lagi
  -->
 <!-- ======================= -->
