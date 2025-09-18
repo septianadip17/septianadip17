@@ -177,5 +177,6 @@ masih semangat
 huhuhuhuh
 ga keterima euy, putus juga lagi
 gawe di cafe
+lemes
  -->
 <!-- ======================= -->
