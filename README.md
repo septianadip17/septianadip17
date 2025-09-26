@@ -173,18 +173,6 @@
 <!-- End of README huh hahaha -->
 <!-- 
 mari kita mulai langkah baru
-masih semangat
-huhuhuhuh
-ga keterima euy, putus juga lagi
-gawe di cafe
-lemes
-abis futsal
-gawe malem
-nonton futsal
-sssss
-hohohoho
-masih belum bisa mulai lagi
-gimana ya
-ok
+
  -->
 <!-- ======================= -->
