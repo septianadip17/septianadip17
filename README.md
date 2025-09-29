@@ -175,6 +175,7 @@
 mari kita mulai langkah baru
 blm
 huh
+gas
 
  -->
 <!-- ======================= -->
