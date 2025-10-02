@@ -173,12 +173,7 @@
 <!-- End of README huh hahaha -->
 <!-- 
 mari kita mulai langkah baru
-blm
-huh
-gas
-ancang ancang
-
-lup
+gimana ya mulainya
 
  -->
 <!-- ======================= -->
