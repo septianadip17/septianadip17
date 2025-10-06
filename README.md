@@ -172,10 +172,6 @@
 <!-- ======================= -->
 <!-- End of README huh hahaha -->
 <!-- 
-mari kita mulai langkah baru
-gimana ya mulainya
-ayooo
-tracking
-gas
+hoam
  -->
 <!-- ======================= -->
