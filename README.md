@@ -175,5 +175,6 @@
 hoam
 sudah mulai
 lagi
+asik
  -->
 <!-- ======================= -->
