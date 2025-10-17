@@ -176,5 +176,6 @@ hoam
 sudah mulai
 lagi
 asik
+gas
  -->
 <!-- ======================= -->
