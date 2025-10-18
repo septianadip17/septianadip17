@@ -172,10 +172,6 @@
 <!-- ======================= -->
 <!-- End of README huh hahaha -->
 <!-- 
-hoam
-sudah mulai
-lagi
-asik
-gas
+hi
  -->
 <!-- ======================= -->
