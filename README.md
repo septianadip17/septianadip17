@@ -177,5 +177,6 @@ lagi belajar networking
 masih
 lagi kali
 huh
+masih belajar jaringan
  -->
 <!-- ======================= -->
