@@ -173,11 +173,6 @@
 <!-- End of README huh hahaha -->
 <!-- 
 hi
-lagi belajar networking
-masih
-lagi kali
-huh
-masih belajar jaringan
-hahahaha
+lagi belajar sql
  -->
 <!-- ======================= -->
