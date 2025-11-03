@@ -176,5 +176,6 @@ hi
 lagi belajar sql
 ngulang
 huhu
+mari kita mulai kembali
  -->
 <!-- ======================= -->
