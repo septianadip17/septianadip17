@@ -175,7 +175,7 @@
 masih belajar sql
 mangat
 bentar
-
+kelas
 hahaahh
  -->
 <!-- ======================= -->
