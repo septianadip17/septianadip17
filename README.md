@@ -172,10 +172,6 @@
 <!-- ======================= -->
 <!-- End of README huh hahaha -->
 <!-- 
-masih belajar sql
-mangat
-bentar
-kelas
-hahaahh
+i'm sick
  -->
 <!-- ======================= -->
