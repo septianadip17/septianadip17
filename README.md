@@ -60,7 +60,7 @@
 <!-- ======================= -->
 <p align="center">
   <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img src="https://github-profile-trophy.vercel.app/?username=septianadip17" alt="GitHub Trophies" />
+    <img src="https://github-profile-trophy.vercel.app/?username=septianadip17&theme=darkhub" alt="GitHub Trophies" />
   </a>
 </p>
 
