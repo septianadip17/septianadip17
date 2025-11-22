@@ -172,9 +172,6 @@
 <!-- ======================= -->
 <!-- End of README huh hahaha -->
 <!-- 
-i'm sick
-huhuh
-mangat
-waduw
+ok
  -->
 <!-- ======================= -->
