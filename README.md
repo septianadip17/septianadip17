@@ -174,5 +174,7 @@
 <!-- 
 ok
 ngetest ssh ke server dibagi
+
+istirahat dulu
  -->
 <!-- ======================= -->
