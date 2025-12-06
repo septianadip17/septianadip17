@@ -15,7 +15,7 @@
 <!-- ======================= -->
 <h3 align="center">
   <samp>&gt; Hey There! I am <b>Septian</b> 
-    <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="32" alt="hi">
+    <img src="https://giphy.com/gifs/hello-gif-lamb-waving-hand-i6O3xEh72rp84" width="32" alt="hi">
   </samp>
 </h3>
 
