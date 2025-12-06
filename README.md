@@ -103,22 +103,22 @@
 
   <!-- Project Card 1 -->
   <a href="https://github.com/septianadip17/pos-laundry">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=septianadip17&repo=pos-laundry&theme=react&border_color=7F3FBF&bg_color=0D1117&title_color=F85D7F&icon_color=F8D866" />
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=septianadip17&repo=pos-laundry&theme=react&border_color=7F3FBF&bg_color=0D1117&title_color=F85D7F&icon_color=F8D866" alt="pos-laundry"/>
   </a>
 
   <!-- Project Card 2 -->
   <a href="https://github.com/septianadip17/kbc-internship">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=septianadip17&repo=kbc-internship&theme=react&border_color=7F3FBF&bg_color=0D1117&title_color=F85D7F&icon_color=F8D866" />
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=septianadip17&repo=kbc-internship&theme=react&border_color=7F3FBF&bg_color=0D1117&title_color=F85D7F&icon_color=F8D866" alt="kbc-internship"/>
   </a>
 
   <!-- Project Card 3 -->
   <a href="https://github.com/septianadip17/hackaton-2-maxyacademy">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=septianadip17&repo=hackaton-2-maxyacademy&theme=react&border_color=7F3FBF&bg_color=0D1117&title_color=F85D7F&icon_color=F8D866" />
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=septianadip17&repo=hackaton-2-maxyacademy&theme=react&border_color=7F3FBF&bg_color=0D1117&title_color=F85D7F&icon_color=F8D866" alt="hackaton-2"/>
   </a>
 
   <!-- Project Card 4 -->
   <a href="https://github.com/septianadip17/ukuiki">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=septianadip17&repo=ukuiki&theme=react&border_color=7F3FBF&bg_color=0D1117&title_color=F85D7F&icon_color=F8D866" />
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=septianadip17&repo=ukuiki&theme=react&border_color=7F3FBF&bg_color=0D1117&title_color=F85D7F&icon_color=F8D866" alt="ukuiki"/>
   </a>
   
 </div>
