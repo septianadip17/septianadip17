@@ -103,22 +103,22 @@
 
   <!-- Project Card 1 -->
   <a href="https://github.com/septianadip17/pos-laundry">
-    <img width="420" height="150" src="https://github-readme-stats.vercel.app/api/pin/?username=septianadip17&repo=pos-laundry&theme=react&border_color=7F3FBF&bg_color=0D1117&title_color=F85D7F&icon_color=F8D866" />
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=septianadip17&repo=pos-laundry&theme=react&border_color=7F3FBF&bg_color=0D1117&title_color=F85D7F&icon_color=F8D866" />
   </a>
 
   <!-- Project Card 2 -->
   <a href="https://github.com/septianadip17/kbc-internship">
-    <img width="420" height="150" src="https://github-readme-stats.vercel.app/api/pin/?username=septianadip17&repo=kbc-internship&theme=react&border_color=7F3FBF&bg_color=0D1117&title_color=F85D7F&icon_color=F8D866" />
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=septianadip17&repo=kbc-internship&theme=react&border_color=7F3FBF&bg_color=0D1117&title_color=F85D7F&icon_color=F8D866" />
   </a>
 
   <!-- Project Card 3 -->
   <a href="https://github.com/septianadip17/hackaton-2-maxyacademy">
-    <img width="420" height="150" src="https://github-readme-stats.vercel.app/api/pin/?username=septianadip17&repo=hackaton-2-maxyacademy&theme=react&border_color=7F3FBF&bg_color=0D1117&title_color=F85D7F&icon_color=F8D866" />
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=septianadip17&repo=hackaton-2-maxyacademy&theme=react&border_color=7F3FBF&bg_color=0D1117&title_color=F85D7F&icon_color=F8D866" />
   </a>
 
   <!-- Project Card 4 -->
   <a href="https://github.com/septianadip17/ukuiki">
-    <img width="420" height="150" src="https://github-readme-stats.vercel.app/api/pin/?username=septianadip17&repo=ukuiki&theme=react&border_color=7F3FBF&bg_color=0D1117&title_color=F85D7F&icon_color=F8D866" />
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=septianadip17&repo=ukuiki&theme=react&border_color=7F3FBF&bg_color=0D1117&title_color=F85D7F&icon_color=F8D866" />
   </a>
   
 </div>
