@@ -1,7 +1,7 @@
 <!-- ======================= -->
 <!-- GitHub Profile View Counter -->
 <!-- ======================= -->
-<a href="https://komarev.com/ghpvc/?username=septianadip17">
+<a href="https://komarev.com/ghpvc/?username=septianadip17" target="_blank">
   <img align="right" src="https://komarev.com/ghpvc/?username=septianadip17&label=Visitors&color=0e75b6&style=flat" alt="Profile visitor" />
 </a>
 
@@ -15,7 +15,7 @@
 <!-- ======================= -->
 <h3 align="center">
   <samp>&gt; Hey There! I am <b>Septian</b> 
-    <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28">
+    <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="32" alt="hi">
   </samp>
 </h3>
 
@@ -35,7 +35,7 @@
 <!-- ======================= -->
 <p align="center">
  <a href="https://linkedin.com/in/septianadip17" target="_blank">
-  <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Profile"/>
+  <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank" alt="LinkedIn Profile"/>
  </a>
 </p>
 <br />
