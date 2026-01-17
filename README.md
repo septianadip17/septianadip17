@@ -177,6 +177,6 @@ yup 2026
 bangkit
 
 semangat
-semangattttt
+semangatttt
  -->
 <!-- ======================= -->
