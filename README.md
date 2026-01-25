@@ -178,5 +178,6 @@ bangkit
 
 semangat
 semangattt yaaa
+bisa ye
  -->
 <!-- ======================= -->
